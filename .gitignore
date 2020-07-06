@@ -32,7 +32,7 @@
 /nginx/ssl
 
 # nysql
-/mysql
+/mysql/mysql
 
 # app/tmp/cache/*
 /app/tmp/cache
