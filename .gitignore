@@ -29,5 +29,10 @@
 /config/master.key
 
 # SSL
-rails.local.pem
-rails.local-key.pem
+/nginx/ssl
+
+# nysql
+/mysql
+
+# app/tmp/cache/*
+/app/tmp/cache
